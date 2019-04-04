@@ -1039,11 +1039,11 @@
 			};
 			buildConfigurationList = 563AE19119FBE4790028C6C1 /* Build configuration list for PBXProject "Mustache" */;
 			compatibilityVersion = "Xcode 6.3";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				English,
 				en,
+				Base,
 			);
 			mainGroup = 563AE18D19FBE4790028C6C1;
 			productRefGroup = 563AE19819FBE47A0028C6C1 /* Products */;

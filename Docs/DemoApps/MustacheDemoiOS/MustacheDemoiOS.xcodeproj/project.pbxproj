@@ -226,10 +226,9 @@
 			};
 			buildConfigurationList = 56FD0F391AAED3C2005C55A7 /* Build configuration list for PBXProject "MustacheDemoiOS" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				English,
 				en,
 				Base,
 			);
